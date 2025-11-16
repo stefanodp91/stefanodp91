@@ -1,4 +1,4 @@
-# Hello, I'm Stefano De Pascalis 👋
+# Hello, I'm Stefano👋
 
 ### Senior Mobile Software Engineer | Android & Flutter Specialist
 
