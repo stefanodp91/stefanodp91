@@ -32,3 +32,8 @@ Specialized in native Android development with **Kotlin** and cross-platform sol
 I am always looking for new challenges and collaborations in the mobile world.
 
 **💼 LinkedIn:**  [Stefano De Pascalis](https://www.linkedin.com/in/stefano-de-pascalis-1b51aa6a)
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stefanodp91&show_icons=true&theme=default&count_private=true&hide_border=true" alt="Stefano De Pascalis GitHub Stats" />
+</div>
